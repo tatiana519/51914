@@ -1,0 +1,3 @@
+do {
+    puts("Otro error");
+} while (1);
